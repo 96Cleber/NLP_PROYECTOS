@@ -1,0 +1,9 @@
+# environment
+venv/
+
+# dir
+data/
+out/
+
+# without
+pendiente.md
