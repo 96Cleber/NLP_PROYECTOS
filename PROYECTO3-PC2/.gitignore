@@ -2,7 +2,6 @@
 venv/
 
 # dir
-data/
 out/
 
 # without
