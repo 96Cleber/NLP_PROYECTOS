@@ -40,7 +40,6 @@ El diseño es moderno pero el precio es alto,Neutral
 
 #### **Requisito de automatización: Uso de `make data`**
 Incluye un **Makefile**  `make data` que:
-- Crea `data/` si no existe.
 - Ejecuta `scripts/make_dataset.py` con semilla fija y parámetros.
 - Genera el hash SHA-256 y lo guarda en `data/nlp_prueba_cc0c2.sha256`.
 - Permite verificar reproducibilidad con `make verify-repro`.
